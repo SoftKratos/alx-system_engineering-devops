@@ -1,3 +1,3 @@
 #!/bin/bash
-uniq -d filename otherwise sort filename | uniq -d
+uniq -d iacta
 
